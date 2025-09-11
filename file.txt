@@ -1,2 +1,2 @@
 this is a text file added
-added change A
+added change B
