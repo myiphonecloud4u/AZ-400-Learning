@@ -1,3 +1,3 @@
 this is a text file added
 Ading B
-new line 
+new line
