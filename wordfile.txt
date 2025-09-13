@@ -1,2 +1,2 @@
 The Heading ----- >
-this is a word file
+The Paragraph ----> This is a word file
